@@ -1,5 +1,5 @@
 # minimaldig4kudu
-Minimal dig.exe and DLLs for running in Kudu
+Minimal `dig.exe` and DLLs for running in Kudu
 
 
 ### Basic Usage ###
