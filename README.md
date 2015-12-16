@@ -20,7 +20,7 @@ $ dig -x 209.132.183.81 +short
 www.redhat.com.
 
 
-$ dig +trace +short redhat.com
+$ dig @8.8.8.8 +trace +short redhat.com
 NS d.root-servers.net. from server 8.8.8.8 in 23 ms.
 NS i.root-servers.net. from server 8.8.8.8 in 23 ms.
 NS m.root-servers.net. from server 8.8.8.8 in 23 ms.
